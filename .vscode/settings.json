@@ -1,0 +1,11 @@
+{
+	"go.toolsEnvVars": {
+		"GOOS": "js",
+		"GOARCH": "wasm",
+		"CGO_ENABLED": "0"
+	}
+	// "go.toolsEnvVars": {
+	// 	"GOOS": "linux",
+	// 	"CGO_ENABLED": "0"
+	// }
+}
