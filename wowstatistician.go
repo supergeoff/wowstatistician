@@ -70,8 +70,8 @@ func main() {
 				},
 			},
 			{
-				Name:    "get",
-				Aliases: []string{"g"},
+				Name:    "retreive",
+				Aliases: []string{"r"},
 				Usage:   "Retreive data from blizzard api",
 				Subcommands: []*cli.Command{
 					{
