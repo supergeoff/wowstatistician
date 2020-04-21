@@ -1,0 +1,10 @@
+{
+	"version": 0,
+	"go_install": false,
+	"watch_ext": [".go", ".tpl"],
+	"dir_structure": {
+		"others": ["views/defaultcontroller"]
+	},
+	"cmd_args": ["serve"],
+	"enable_reload": false
+}
