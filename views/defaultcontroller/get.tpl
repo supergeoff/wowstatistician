@@ -60,7 +60,6 @@
 													type="radio"
 													name="merge"
 													value="spec"
-													checked
 												/>
 												Spec
 											</label>
@@ -69,6 +68,7 @@
 													type="radio"
 													name="merge"
 													value="class"
+													checked
 												/>
 												Class
 											</label>
