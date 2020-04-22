@@ -16,8 +16,23 @@
 			"presentation": {
 				"clear": true,
 				"focus": true
+			}
+		},
+		{
+			"label": "Build Go Linux",
+			"type": "shell",
+			"command": "go",
+			"args": ["build"],
+			"options": {
+				"env": { "GOOS": "linux", "GOARCH": "amd64" },
+				"cwd": "${workspaceFolder}"
 			},
-			"dependsOn": ["Build js"]
+			"group": "build",
+			"problemMatcher": "$go",
+			"presentation": {
+				"clear": true,
+				"focus": true
+			}
 		},
 		{
 			"label": "Build WA",
