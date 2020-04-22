@@ -99,12 +99,24 @@
 						Tech Stack
 					</p>
 					<div class="tags is-centered">
-						<span class="tag is-info">Go</span>
-						<span class="tag is-info">WASM</span>
-						<span class="tag is-danger">Badger DB</span>
-						<span class="tag is-danger">Beego</span>
-						<span class="tag is-danger">Bulma</span>
-						<span class="tag is-danger">ChartJS</span>
+						<a class="tag is-info" href="https://golang.org/">Go</a>
+						<a class="tag is-info" href="https://webassembly.org/"
+							>WASM</a
+						>
+						<a
+							class="tag is-danger"
+							href="https://github.com/dgraph-io/badger/"
+							>Badger DB</a
+						>
+						<a class="tag is-danger" href="https://beego.me/"
+							>Beego</a
+						>
+						<a class="tag is-danger" href="https://bulma.io/"
+							>Bulma</a
+						>
+						<a class="tag is-danger" href="https://www.chartjs.org/"
+							>ChartJS</a
+						>
 					</div>
 				</div>
 			</footer>
