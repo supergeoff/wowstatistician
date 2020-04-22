@@ -85,10 +85,27 @@
 				<div class="content has-text-centered">
 					<p>
 						<strong>Wow Statistician</strong>. The source code can
-						be found on <a href="https://github.com">Github</a>. The
-						data have been last updated on
+						be found on
+						<a href="https://github.com/supergeoff/wowstatistician"
+							>Github</a
+						>. The data have been last updated on
 						<span class="has-text-link" id="syncdate"></span>.
 					</p>
+				</div>
+				<div class="content">
+					<p
+						class="is-size-7 has-text-grey-dark is-italic has-text-centered"
+					>
+						Tech Stack
+					</p>
+					<div class="tags is-centered">
+						<span class="tag is-info">Go</span>
+						<span class="tag is-info">WASM</span>
+						<span class="tag is-danger">Badger DB</span>
+						<span class="tag is-danger">Beego</span>
+						<span class="tag is-danger">Bulma</span>
+						<span class="tag is-danger">ChartJS</span>
+					</div>
 				</div>
 			</footer>
 		</section>
